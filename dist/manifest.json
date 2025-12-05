@@ -1,0 +1,30 @@
+{
+  "name": "Уютный ремонт - Магазин товаров для ремонта",
+  "short_name": "Уютный ремонт",
+  "description": "Интернет-магазин товаров для ремонта и строительства: инструменты, стройматериалы, сантехника, электрика",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["shopping", "business"],
+  "lang": "ru",
+  "scope": "/"
+}
