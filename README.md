@@ -1,4 +1,4 @@
-# Уютный Ремонт - E-commerce Platform
+# CozRen E-commerce Platform
 
 This is a comprehensive e-commerce platform built with React, TypeScript, and a custom PostgreSQL backend.
 
