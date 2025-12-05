@@ -2,6 +2,8 @@
 
 This is a comprehensive e-commerce platform built with React, TypeScript, and a custom PostgreSQL backend.
 
+![Иллюстрация к проекту](https://github.com/MakeStepanGreatAgain/CozyRen-web/blob/main/src/screen.png)
+
 ## Features
 
 - **Product Catalog**: Browse categories and products with detailed specifications
